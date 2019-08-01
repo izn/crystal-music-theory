@@ -1,4 +1,4 @@
-# music-theory
+# crystal-music-theory
 
 [![Build Status](https://travis-ci.org/izn/crystal-music-theory.svg?branch=master)](https://travis-ci.org/izn/crystal-music-theory)
 
