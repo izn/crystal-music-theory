@@ -1,5 +1,7 @@
 # music-theory
 
+[![Build Status](https://travis-ci.org/izn/crystal-music-theory.svg?branch=master)](https://travis-ci.org/izn/crystal-music-theory)
+
 Trying to learn Crystal with Music Theory
 
 ## Contributing
